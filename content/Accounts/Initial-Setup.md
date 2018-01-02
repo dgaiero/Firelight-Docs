@@ -17,7 +17,7 @@ An account has been made for you on winserver1 on AD network ad.fire-light.us. T
 Your initial credentials are:
 
 Domain	Username	Password
-AD      jrdoe         @38aeec86115d12e0290f69744521f15318b951b1
+AD        jrdoe       @38aeec86115d12e0290f69744521f15318b951b1
 
 Your user folder is available through the UNC path: \\winserver1\NGUsers\jrdoe. You can access this folder directly on any intranet connected computer. If you are on the external network, you will need to use RDP and the gateway server. For more information visit (Coming Soon) https://docs.fire-light.us/rdp/setup. Your user folder name can be identified by your account ID: jrdoe.
 
@@ -41,7 +41,7 @@ This website will redirect to https://fs.fire-light.us. You will be prompted wit
 
 - On this page, **make sure** that the username is yours and `You are currently logged in as: jrdoe@ad.fire-light.us` is your username at `ad.fire-light.us`.
 
-<img src="https://static.fire-light.us/docs.fire-light.us/images/AccountSetup/resetPasswordInfo.PNG" width="200">
+<img src="https://static.fire-light.us/docs.fire-light.us/images/AccountSetup/resetPasswordInfo.PNG" width="400">
 
 You may recieve an error if you did not eneter the correct old password or the system rejected your password.
 Any other error should never happen, so if you come accross one, please email [connect@fire-light.us](mailto:connect@fire-light.us).
