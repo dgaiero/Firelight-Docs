@@ -41,7 +41,7 @@ This website will redirect to https://fs.fire-light.us. You will be prompted wit
 
 - On this page, **make sure** that the username is yours and `You are currently logged in as: jrdoe@ad.fire-light.us` is your username at `ad.fire-light.us`.
 
-<img src="%static_files%/images/AccountSetup/resetPasswordInfo.PNG" width="200">
+<img src="https://static.fire-light.us/docs.fire-light.us/images/AccountSetup/resetPasswordInfo.PNG" width="200">
 
 You may recieve an error if you did not eneter the correct old password or the system rejected your password.
 Any other error should never happen, so if you come accross one, please email [connect@fire-light.us](mailto:connect@fire-light.us).
