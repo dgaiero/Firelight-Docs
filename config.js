@@ -43,6 +43,8 @@ var config = {
   // (can use %image_url% in Markdown files)
   image_url: '/images',
 
+  static_files: 'https://static.fire-light.us/docs.fire-light.us',
+
   // Add your analytics tracking code (including script tags)
   analytics: '',
 

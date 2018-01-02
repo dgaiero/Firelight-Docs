@@ -31,17 +31,17 @@ To setup your account, visit https://uac.fire-light.us.
 
 This website will redirect to https://fs.fire-light.us. You will be prompted with a login screen, as shown below:
 
-<img src="%image_url%/AccountSetup/ADFS_SSO_Initial_Filled.png" width="200">
+<img src="https://static.fire-light.us/docs.fire-light.us/images/AccountSetup/ADFS_SSO_Initial_Filled.png" width="200">
 
 - For username where it says `someone@example.com`, fill in your username. For example, someone with the name of `John R. Doe` would have a username of `AD\jrdoe`. Your username will typically be your first initial, middle initial and last name.\
 - At this point, you will be redirected back to https://uac.fire-light.us. You should see `Welcome John` (or your first name). If you do not, sign-out and email [connect@fire-light.us](mailto:connect@fire-light.us).
 - At this point, click on the Reset password button, shown below.
 
-<img src="%image_url%/AccountSetup/resetPasswordButton.png" width="200">
+<img src="https://static.fire-light.us/docs.fire-light.us/images/AccountSetup/resetPasswordButton.png" width="200">
 
 - On this page, **make sure** that the username is yours and `You are currently logged in as: jrdoe@ad.fire-light.us` is your username at `ad.fire-light.us`.
 
-<img src="%image_url%/AccountSetup/resetPasswordInfo.PNG" width="200">
+<img src="%static_files%/images/AccountSetup/resetPasswordInfo.PNG" width="200">
 
 You may recieve an error if you did not eneter the correct old password or the system rejected your password.
 Any other error should never happen, so if you come accross one, please email [connect@fire-light.us](mailto:connect@fire-light.us).
