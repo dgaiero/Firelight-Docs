@@ -23,5 +23,5 @@ To mount a network share on the local network, there are a couple of setup steps
 <img src="https://static.fire-light.us/docs.fire-light.us/images/shareMount/myPC_mountShare.png">
 4. On the next screen, it is not necessary to select a particular drive letter, but it is recommended to select `X:`. For the folder, type `\\serverdata.fire-light.us@ssl\DavWWWRoot\data`.
 5. Make sure **Reconnect at sign-in** is checked and **connect using different credentials** is unchecked.
-<img src="https://static.fire-light.us/docs.fire-light.us/images/shareMount/mapNetworkDriveLetterPageInternet.png">.
+<img src="https://static.fire-light.us/docs.fire-light.us/images/shareMount/mapNetworkDriveLetterPageInternet.png">
 5. When using this system, it may require you to input your username and password when opening files (specifically, Microsoft Office files). Enter your username with the `AD\` portion.
